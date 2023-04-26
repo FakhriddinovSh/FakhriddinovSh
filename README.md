@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahobiddinfaxriddinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahobiddin faxriddinov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahobiddin-faxriddinov-740954227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahobiddin faxriddinov" height="30" width="40" /></a>
 <a href="https://fb.com/shahobiddinfaxriddinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahobiddin faxriddinov" height="30" width="40" /></a>
 <a href="https://instagram.com/shahobiddin.bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahobiddin.bro" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shahobiddin faxriddinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahobiddin faxriddinov" height="30" width="40" /></a>
