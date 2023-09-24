@@ -3,14 +3,15 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🏢 I’m currently working on [Farobiy IT Academy](https://www.instagram.com/farobiyuz/)
+- 🏢 I’m currently working on [TechMasters, Remote)
 
-- 🌱 I’m currently learning **JavaScript OOP, Angular.js, TypeScript**
+- 🌱 I’m currently learning **React Native, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://shahobiddin.uz](https://shahobiddin.uz)
 
 - 📝 I regularly write articles on [https://shahobiddin.uz](https://shahobiddin.uz)
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **javascript, react, node.js**
 
 - 📫 How to reach me **shaxobiddinfaxriddinov4@gmail.com**
 
